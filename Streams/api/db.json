@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "Great Stream",
+      "id": 1
+    },
+    {
+      "title": "First Stream",
+      "description": "Great Stream",
+      "id": 2
+    },
+    {
+      "title": "First Title",
+      "description": "First description",
+      "id": 3
+    },
+    {
+      "title": "title2_june10",
+      "description": "desc2_june10",
+      "userId": "110523259574183502005",
+      "id": 7
+    },
+    {
+      "title": "title3_june10",
+      "description": "desc3_june10",
+      "userId": "110523259574183502005",
+      "id": 8
+    },
+    {
+      "title": "title4_june102345234",
+      "description": "desc4_june1023453245",
+      "id": 9
+    }
+  ]
+}
